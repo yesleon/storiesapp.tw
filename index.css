@@ -1,17 +1,31 @@
 .hero-image {
   text-align: center;
-  padding: 3rem 2rem 7rem;
+  padding: 7rem 2rem;
 }
 
 .hero {
   text-align: center;
-  padding: 10rem 1.5rem 0;
+  padding: 15rem 1.5rem;
 }
 
 .app-store-badge {
-  padding: 3rem 0 7rem 0;
+  padding: 3rem 0;
 }
 
 .bg-tint {
   background-color: #EA5546;
+}
+
+.max-width {
+	width: 780px; 
+	margin: auto;
+	padding: 0 2.5em;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    height: 80px; /* Set the fixed height of the footer here */
+    line-height: 1rem; /* Vertically center the text there */
+	font-size: 0.5rem;
 }
