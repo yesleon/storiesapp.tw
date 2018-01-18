@@ -6,6 +6,9 @@
 .hero {
   text-align: center;
   padding: 15rem 1.5rem;
+  background-image: url("stories-bg.svg");
+  background-repeat: no-repeat;
+  background-position: 70%;
 }
 
 .app-store-badge {
@@ -14,6 +17,10 @@
 
 .bg-tint {
   background-color: #EA5546;
+}
+
+.navbar.text-tint {
+  color: #EA5546;
 }
 
 .max-width {
@@ -27,6 +34,9 @@
   padding: 4em 0;
   bottom: 0;
   width: 100%;
-  line-height: 1rem; 
   font-size: 0.5rem;
+}
+
+.footer p {
+  margin: 1em 0;
 }
