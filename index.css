@@ -1,0 +1,17 @@
+.hero-image {
+  text-align: center;
+  padding: 3rem 0 7rem;
+}
+
+.hero {
+  text-align: center;
+  padding: 10rem 0 0;
+}
+
+.app-store-badge {
+  padding: 3rem 0 7rem 0;
+}
+
+.bg-tint {
+  background-color: #EA5546;
+}
